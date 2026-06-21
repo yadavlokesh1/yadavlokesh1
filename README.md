@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:080808,50:0f766e,100:22d3ee&text=Lokesh%20Yadav&fontColor=ffffff&fontSize=48&fontAlignY=42&desc=Windows%20Sysadmin%20%7C%20AD%20%7C%20Cloud%20%7C%20Automation&descColor=d7fffb&descSize=16&descAlignY=62&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0f766e,100:38bdf8&text=Lokesh%20Yadav&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Windows%20Sysadmin%20%E2%80%A2%20Cloud%20Labs%20%E2%80%A2%20Automation&descColor=ccfbf1&descSize=17&descAlignY=60&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=620&lines=Building+infra+labs+that+actually+teach+something;PowerShell+%2B+Windows+Server+%2B+Cloud;Lab+it.+Break+it.+Fix+it.+Document+it." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Active+Directory+%7C+Windows+Server+%7C+PowerShell;Azure+%2B+AWS+labs+without+the+fake+guru+energy;Build.+Break.+Fix.+Document." />
 
 </div>
-
