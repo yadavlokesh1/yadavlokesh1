@@ -1,16 +1,34 @@
-## Hi there 👋
+user:
+  name      : Lokesh
+  role      : IT Infrastructure Engineer | Windows Server & AD | Cloud
+  location  : Gurugram / Delhi NCR, India
+  current   : HCLTech — IHG Project
 
-<!--
-**yadavlokesh1/yadavlokesh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+credentials:
+  certifications:
+    - Microsoft Certified: Azure Administrator Associate (AZ-104) 🔷
 
-Here are some ideas to get you started:
+capabilities:
+  core_focus:
+    - Windows Server & Active Directory 🖥️
+    - VMware & Nutanix Virtualization 🧱
+    - Azure & AWS Cloud Infrastructure ☁️
+    - SCCM Endpoint Management 📦
+    - ITSM & Enterprise IT Operations 🎫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+growth_pipeline:
+  currently_building:
+    - PowerShell automation tooling ⚙️
+    - Open-source contributions 🌱
+  currently_learning:
+    - Infrastructure as Code (Terraform) 🌍
+    - Deeper AWS architecture 🟧
+
+availability:
+  open_to:
+    - DevOps / Cloud Infrastructure roles 🚀
+    - Open-source collaboration 🤝
+
+philosophy:
+  mindset: >
+    If it's manual and repeated more than twice, it should be a script.
