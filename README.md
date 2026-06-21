@@ -39,32 +39,6 @@ rule: build it, break it, document it, fix it better
 
 ---
 
-### 🚧 Building in public
-
-<table>
-<tr>
-<td width="50%">
-
-**🛡️ CIS Benchmark Scanner**
-PowerShell checks for Windows Server 2022 security baselines.
-
-</td>
-<td width="50%">
-
-**🧰 AD Admin Toolkit**
-User creation, unlock, disable, reset, CSV operations. Less clicking, more control.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🔁 ESXi → AHV Migration**
-Migration planning, rollback, validation, and docs that don’t look like panic notes.
-
-</td>
-<td width="50%">
-
 **☁️ Cloud Labs**
 Azure, AWS, Linux hosting, backup labs, and infra automation experiments.
 
@@ -86,20 +60,3 @@ Azure, AWS, Linux hosting, backup labs, and infra automation experiments.
 </p>
 
 ---
-
-### 📊 GitHub signal
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yadavlokesh1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavlokesh1&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <i>Automate the boring. Document the useful. Don’t fake the production experience.</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2c5364,50:203a43,100:0f2027&section=footer" />
-</p>
