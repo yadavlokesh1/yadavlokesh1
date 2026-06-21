@@ -10,3 +10,14 @@
 </div>
 
 ---
+
+```powershell
+PS C:\Lokesh> Get-Focus
+
+Building  : CIS Scanner · AD Toolkit · Cloud Labs
+Stack     : Windows Server · AD · PowerShell · Azure · AWS
+Approach  : Build → Break → Fix → Document
+````
+
+```
+```
