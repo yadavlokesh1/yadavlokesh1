@@ -1,100 +1,105 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=900&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Lokesh+Yadav+%F0%9F%91%8B;Windows+Sysadmin+%7C+AD+%7C+Cloud+Labs;PowerShell+Automation+%2B+Infra+Projects" alt="Typing SVG" />
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=yadavlokesh1&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f2027,50:203a43,100:2c5364&text=Lokesh%20Yadav&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Windows%20Sysadmin%20%7C%20Cloud%20Labs%20%7C%20Automation&descColor=d6f3ff&descSize=16&descAlignY=58&animation=fadeIn" />
 </p>
 
-`Windows Server` • `Active Directory` • `PowerShell` • `Azure` • `AWS` • `VMware` • `Nutanix` • `Linux`
-
-</div>
+<p align="center">
+  <a href="https://github.com/yadavlokesh1"><img src="https://img.shields.io/badge/GitHub-yadavlokesh1-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://yadavlokesh1.github.io"><img src="https://img.shields.io/badge/Portfolio-live-00C853?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=yadavlokesh1&style=for-the-badge&label=Views&color=blue" />
+</p>
 
 ---
 
-### `whoami`
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22" /> `whoami`
 
 ```yaml
 name: Lokesh Yadav
 role: Windows System Administrator
-focus: AD, Windows Server, automation, cloud infra labs
-mode: building projects that survive interview questions
+lane: Active Directory • Windows Server • Cloud • Automation
+currently_building: CIS Benchmark Scanner + AD Admin Toolkit
+learning_mode: Azure | AWS | Linux | IaC
+rule: build it, break it, document it, fix it better
 ```
 
 ---
 
-### Tech stack
+### ⚙️ Tech I work with
 
 <p>
-  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active_Directory-003B57?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nutanix-024DA1?style=for-the-badge&logo=nutanix&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=windows,powershell,azure,aws,linux,git,github,html,css,js" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Active%20Directory-0052CC?style=flat-square&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nutanix-024DA1?style=flat-square&logo=nutanix&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell%20Automation-5391FE?style=flat-square&logo=powershell&logoColor=white" />
 </p>
 
 ---
 
-### Currently building
+### 🚧 Building in public
 
-* **CIS Benchmark Scanner** → Windows Server 2022 security checks with PowerShell
-* **AD Admin Toolkit** → user creation, unlock, disable, reset, CSV operations
-* **ESXi → AHV Migration Plan** → migration blueprint, risks, rollback, validation
-* **Cloud Labs** → Azure/AWS infra automation, backup, hosting, monitoring
+<table>
+<tr>
+<td width="50%">
+
+**🛡️ CIS Benchmark Scanner**
+PowerShell checks for Windows Server 2022 security baselines.
+
+</td>
+<td width="50%">
+
+**🧰 AD Admin Toolkit**
+User creation, unlock, disable, reset, CSV operations. Less clicking, more control.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🔁 ESXi → AHV Migration**
+Migration planning, rollback, validation, and docs that don’t look like panic notes.
+
+</td>
+<td width="50%">
+
+**☁️ Cloud Labs**
+Azure, AWS, Linux hosting, backup labs, and infra automation experiments.
+
+</td>
+</tr>
+</table>
 
 ---
 
-### Featured work
+### 📌 Featured
 
 <p align="center">
   <a href="https://github.com/yadavlokesh1/ESXi-to-AHV-Migration">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yadavlokesh1&repo=ESXi-to-AHV-Migration&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yadavlokesh1&repo=ESXi-to-AHV-Migration&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/yadavlokesh1/Azure-Infrastructure-Automation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yadavlokesh1&repo=Azure-Infrastructure-Automation&theme=github_dark&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/yadavlokesh1/Veeam-Azure-Blob-Backup">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yadavlokesh1&repo=Veeam-Azure-Blob-Backup&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/yadavlokesh1/Windows-Server-Health-Check">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yadavlokesh1&repo=Windows-Server-Health-Check&theme=github_dark&hide_border=true" />
+  <a href="https://github.com/yadavlokesh1/yadavlokesh1.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yadavlokesh1&repo=yadavlokesh1.github.io&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 ---
 
-### GitHub pulse
+### 📊 GitHub signal
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yadavlokesh1&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yadavlokesh1&theme=github-dark-blue&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yadavlokesh1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavlokesh1&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### Operating principle
+<p align="center">
+  <i>Automate the boring. Document the useful. Don’t fake the production experience.</i>
+</p>
 
-> Automate the boring.
-> Document the confusing.
-> Lab it before claiming it.
-> No screenshot-museum engineering.
-
----
-
-<div align="center">
-
-### Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-yadavlokesh1.github.io-0A66C2?style=for-the-badge\&logo=githubpages\&logoColor=white)](https://yadavlokesh1.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-yadavlokesh1-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/yadavlokesh1)
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2c5364,50:203a43,100:0f2027&section=footer" />
+</p>
