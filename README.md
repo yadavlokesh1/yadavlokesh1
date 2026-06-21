@@ -6,12 +6,3 @@
 
 </div>
 
-```powershell
-PS C:\Lokesh> whoami
-
-Role       : Windows System Administrator
-Stack      : Active Directory | Windows Server | PowerShell | Azure | AWS
-Infra      : VMware | Nutanix | Linux | GitHub Pages
-Building   : CIS Scanner • AD Toolkit • Cloud Labs
-Mindset    : automate the boring, document the useful
-```
