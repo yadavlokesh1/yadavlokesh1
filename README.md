@@ -26,7 +26,7 @@ rule: build it, break it, document it, fix it better
 ### ⚙️ Tech I work with
 
 <p>
-  <img src="https://skillicons.dev/icons?i=windows,powershell,azure,aws,linux,git,github,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=windows,powershell,azure,aws" />
 </p>
 
 <p>
@@ -48,15 +48,5 @@ Azure, AWS, Linux hosting, backup labs, and infra automation experiments.
 
 ---
 
-### 📌 Featured
-
-<p align="center">
-  <a href="https://github.com/yadavlokesh1/ESXi-to-AHV-Migration">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yadavlokesh1&repo=ESXi-to-AHV-Migration&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/yadavlokesh1/yadavlokesh1.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yadavlokesh1&repo=yadavlokesh1.github.io&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
 
 ---
