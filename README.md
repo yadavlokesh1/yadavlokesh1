@@ -6,7 +6,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/Windows%20Server-f8fafc?style=for-the-badge&logo=windows&logoColor=2563eb&labelColor=f8fafc&color=e5e7eb" />
-  <img src="https://img.shields.io/badge/Active%20Directory-f8fafc?style=for-the-badge&logo=microsoft&logoColor=0f766e&labelColor=f8fafc&color=e5e7eb" />
   <img src="https://img.shields.io/badge/PowerShell-f8fafc?style=for-the-badge&logo=powershell&logoColor=2563eb&labelColor=f8fafc&color=e5e7eb" />
   <img src="https://img.shields.io/badge/Azure-f8fafc?style=for-the-badge&logo=microsoftazure&logoColor=0078d4&labelColor=f8fafc&color=e5e7eb" />
 </p>
@@ -20,11 +19,3 @@ clean infra labs · practical automation · no fake production-flex
 </div>
 
 ---
-
-```powershell
-PS C:\Lokesh> ./focus.ps1
-
-Building   : CIS Scanner · AD Toolkit · Cloud Labs
-Stack      : Windows Server · AD · PowerShell · Azure · AWS
-Rule       : Build it. Break it. Fix it. Document it.
-```
