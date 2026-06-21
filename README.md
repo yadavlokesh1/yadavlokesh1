@@ -1,7 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0f766e,100:38bdf8&text=Lokesh%20Yadav&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Windows%20Sysadmin%20%E2%80%A2%20Cloud%20Labs%20%E2%80%A2%20Automation&descColor=ccfbf1&descSize=17&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=210&color=0:f8fafc,45:e0f2fe,100:ccfbf1&text=Lokesh%20Yadav&fontColor=0f172a&fontSize=54&fontAlignY=42&desc=Windows%20Sysadmin%20%C2%B7%20Cloud%20Labs%20%C2%B7%20Automation&descColor=475569&descSize=18&descAlignY=64&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Active+Directory+%7C+Windows+Server+%7C+PowerShell;Azure+%2B+AWS+labs+without+the+fake+guru+energy;Build.+Break.+Fix.+Document." />
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/Windows%20Server-f8fafc?style=for-the-badge&logo=windows&logoColor=2563eb&labelColor=f8fafc&color=e5e7eb" />
+  <img src="https://img.shields.io/badge/Active%20Directory-f8fafc?style=for-the-badge&logo=microsoft&logoColor=0f766e&labelColor=f8fafc&color=e5e7eb" />
+  <img src="https://img.shields.io/badge/PowerShell-f8fafc?style=for-the-badge&logo=powershell&logoColor=2563eb&labelColor=f8fafc&color=e5e7eb" />
+  <img src="https://img.shields.io/badge/Azure-f8fafc?style=for-the-badge&logo=microsoftazure&logoColor=0078d4&labelColor=f8fafc&color=e5e7eb" />
+</p>
+
+<br>
+
+<sub>
+clean infra labs · practical automation · no fake production-flex
+</sub>
 
 </div>
+
+---
+
+```powershell
+PS C:\Lokesh> ./focus.ps1
+
+Building   : CIS Scanner · AD Toolkit · Cloud Labs
+Stack      : Windows Server · AD · PowerShell · Azure · AWS
+Rule       : Build it. Break it. Fix it. Document it.
+```
