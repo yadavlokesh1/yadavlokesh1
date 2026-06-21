@@ -1,23 +1,13 @@
-````md
 <div align="center">
-
-<img src="./assets/banner_ice.svg" width="100%" alt="Lokesh Yadav - Windows Sysadmin, Cloud Labs, Automation" />
+  <img src="./banner.svg" alt="Lokesh Yadav — Infrastructure & Cloud Engineer" width="100%">
+</div>
 
 <br>
 
-<sub>clean infra labs · practical automation · less noise, more proof</sub>
+**Infrastructure Engineer @ HCLTech** · Azure (AZ-104) · AWS · VMware · Nutanix · Windows Server & AD
 
-</div>
+📦 **[Nutanix Multi-Cluster Alert Consolidator](#)** — PowerShell tool that consolidates cross-cluster alerts into a single HTML report
 
----
+🌱 **Open source:** [Merged PR → cal.diy](https://github.com/calcom/cal.diy/pull/29617) · 2 PRs in review on Appwrite
 
-```powershell
-PS C:\Lokesh> Get-Focus
-
-Building  : CIS Scanner · AD Toolkit · Cloud Labs
-Stack     : Windows Server · AD · PowerShell · Azure · AWS
-Approach  : Build → Break → Fix → Document
-````
-
-```
-```
+📍 Gurugram / Delhi NCR · Open to DevOps & Cloud Infrastructure roles
