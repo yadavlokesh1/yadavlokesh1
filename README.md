@@ -1,10 +1,10 @@
-# Hi, I'm Lokesh 👋
+# Hi, I'm Lokesh Yadav
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=58A6FF&width=500&lines=Windows+Systems+Administrator;Active+Directory+%7C+Azure+%7C+VMware;Automating+infrastructure+with+PowerShell)](https://git.io/typing-svg)
 
 ---
 
-## 🧑‍💻 `whoami`
+## whoami
 
 ```yaml
 user:
