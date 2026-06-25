@@ -1,7 +1,3 @@
-# LOKESH YADAV
-
-Windows Systems Administrator · Cloud · Automation
-
----
-
-[![My Skills](https://skillicons.dev/icons?i=windows,azure,powershell,terraform,aws,git&theme=dark)](https://skillicons.dev)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yadavlokesh1/yadavlokesh1/main/header.svg" width="100%"/>
+</div>
