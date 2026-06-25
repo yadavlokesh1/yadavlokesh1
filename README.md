@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./header.svg" width="100%"/>
+</div>
+
 <svg width="100%" viewBox="0 0 680 190" xmlns="http://www.w3.org/2000/svg" role="img">
 <title>Lokesh Yadav Banner</title>
 <defs>
