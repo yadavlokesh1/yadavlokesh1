@@ -1,1 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&height=230&color=0:09090b,45:581c87,100:06b6d4&text=Lokesh%20Yadav&fontColor=ffffff&fontSize=50&fontAlignY=42&desc=Windows%20Sysadmin%20%7C%20AD%20%7C%20Cloud%20%7C%20Automation&descColor=f0f9ff&descSize=16&descAlignY=63&animation=twinkling" />
+```console
+lokesh@sysadmin:~$ whoami
+> Lokesh Yadav — Systems Administrator
+
+lokesh@sysadmin:~$ cat stack.txt
+> AWS · Azure · VMware vSphere · Nutanix · PowerShell · SCCM · AD
+
+lokesh@sysadmin:~$ cat certs.txt
+> AZ-104 ✓ · AWS SAA (WIP)
+
+lokesh@sysadmin:~$ 
+> *Sysadmin · Cloud · Automation · Delhi NCR*
+```
