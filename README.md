@@ -1,7 +1,1 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:0f2952,100:020a18&text=LOKESH%20YADAV&fontColor=ffffff&fontSize=40&fontAlignY=45&desc=Sysadmin%20%C2%B7%20Cloud%20%C2%B7%20Automation&descColor=93c5fd&descSize=14&descAlignY=68" width="100%"/>
-
-[![Skills](https://skillicons.dev/icons?i=azure,powershell,terraform,aws,vmware&theme=dark)](https://skillicons.dev)
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=230&color=0:09090b,45:581c87,100:06b6d4&text=Lokesh%20Yadav&fontColor=ffffff&fontSize=50&fontAlignY=42&desc=Windows%20Sysadmin%20%7C%20AD%20%7C%20Cloud%20%7C%20Automation&descColor=f0f9ff&descSize=16&descAlignY=63&animation=twinkling" />
